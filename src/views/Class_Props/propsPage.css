@@ -1,0 +1,38 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+    margin-left: 0px;
+    background-color: #383838;
+    border-radius: 20px;
+    color: white;
+}
+.titleclass{
+    color: #FFC312;
+}
+
+.list{
+    padding-left: 30px;
+}
+
+.upTitle{
+    color: #6ab04c;
+}
+
+.centerStyle{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: rgba(128, 128, 128, 0.199);
+    margin: 20px;
+    border-radius: 10px;
+    
+}
+
+.endStyle{
+    display: flex;
+    justify-content: center;
+    background-color: #686de0;
+    margin-bottom: 25px;
+    justify-content: space-around;
+}

@@ -1,0 +1,40 @@
+.navBar{
+    display: flex;
+    background-color: #2f3542;
+    color: white;
+    padding: 15px;
+    justify-content: space-between;
+
+
+}
+
+.navBar-routes{
+    margin-right:10px;
+}
+
+span{
+    margin-left: 20px;
+    margin-right: 20px;
+    color: white;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+
+.navBar-logo{
+    font-weight: 800;
+    text-transform: uppercase;
+    margin-left: 20px;
+}
+
+.active{
+    
+    /* background-color: rgba(255, 255, 255, 0.295); */
+    background-color: #70a1ff;
+    padding: 15px;
+}
+/* 
+span:hover{
+    color: #F79F1F;
+} */
+
